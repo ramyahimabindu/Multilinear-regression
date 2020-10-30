@@ -61,4 +61,4 @@ print(np.concatenate((y_Optimal_Pred.reshape(len(y_Optimal_Pred),1),
 
 print(regressor.coef_) 
 print (regressor.intercept_) #-6634.39393
-y=-6634.3939-(1.22e+)
+
